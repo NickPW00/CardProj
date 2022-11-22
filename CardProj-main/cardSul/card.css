@@ -1,0 +1,51 @@
+#card{
+    position: absolute;
+    top: 20%;
+    right: 30%;
+    width: 600px;
+    border: solid black 2px;
+    border-radius: 15px;
+}
+section{
+    margin-bottom: 100px;
+}
+.imagens{
+    display: inline;
+    margin: 25px;
+}
+/* .imagens img{
+    width: 100px;
+}  */
+#art1, #cabeca{
+    text-align: center;
+}
+#art2{
+    margin: 0px 30px;
+}
+#x{
+    position: absolute;
+    top: 1%;
+    right: -2%;
+    
+}
+#x img{
+    width: 20px;
+}
+#h1{
+    font-weight: bolder;
+    font-size: 30px;
+}
+footer{
+    background-color: #14145a;
+    border: #14145a solid 1px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+footer p{
+    margin: 15px 30px;
+    color: white;
+    font-weight: bold;
+}
+#ipa{
+    float: right;
+}
